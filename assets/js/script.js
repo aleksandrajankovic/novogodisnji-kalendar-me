@@ -31,30 +31,30 @@ const promotions = {
      
     ],
     month: "January",
-    link:"https://meridianbet.rs/sr/kladjenje",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15031",
+    button:"UPLATI DEPOZIT"
   },
   2: {
     title: "Aviator kiša freebet-ova!",
     subtitle: "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru!",
     image: "./assets/images/header/image4.jpg",
     description: [
-      "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru! ",
+      "U toku promocije potrebno je da igrač uplati min. 5€ i da deposit iskoristi na kazino ponudi kako bi dobio 10 freebet-ova.",
       "Svaki dodijeljeni Freebet je vrijedan 0.10€.",
       "Dobitak se može isplatiti na keš račun igrača u bilo kom trenutku nakon što koeficijent dostigne minimalni iznos od 1.95.",
       "Freebet-ovi se uplacuju sjutradan do 12h.",
      
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Zavrti"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25421",
+    button:"UPLATI"
   },
   3: {
     title: "Igra dana GG&3+",
     subtitle: "Petak je dan za golove! Samo danas odigraj najviše tiketa koji sadrže igru GG&3+ i kvalifikuj se za bonus.",
     image: "./assets/images/header/image5.jpg",
     description: [
-      "20 igrača koji budu imali najveći broj tiketa koji sadrže igru GG&3+ ( minimum 1 događaj sa ovom igrom po tiketu) dobijaju po 20€ bonusa",
+      "20 igrača koji budu imali najveći broj tiketa koji sadrže igru GG&3+ (minimum 1 događaj sa ovom igrom po tiketu) dobijaju po 20€ bonusa",
       "Minimalna uplata 1€.",
       "Ne važi za tikete odigrane sa bonus novcem.",
       "Ne važi za tikete koji su obrađeni turbo kešom.",
@@ -63,8 +63,8 @@ const promotions = {
      
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15044",
+    button:"ODIGRAJ TIKET"
   },
   4: {
     title: "Uzleti uz Super Heli!",
@@ -77,8 +77,8 @@ const promotions = {
       "Freebet-ovi se uplacuju  sjutradan do 12h.",     
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25425",
+    button:"UPLATI"
   },
   5: {
     title: "Dan za spinove",
@@ -91,8 +91,8 @@ const promotions = {
       "Pripremi se za nezaboravnu zabavu i osvoji spinove! ",     
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/400/page/25427",
+    button:"UPLATI DEPOZIT"
   },
   6: {
     title: "Win&Go cashback 100%!",
@@ -106,8 +106,8 @@ const promotions = {
       "Cashback se uplaćuje sjutradan do 15h"
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15046",
+    button:"ODIGRAJ"
   },
   7: {
     title: "Sport cashback!",
@@ -122,8 +122,8 @@ const promotions = {
       "Maksimalni iznos bonusa je 20€.",
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/30/page/15052",
+    button:"ODIGRAJ TIKET"
   },
   8: {
     title: "Kartica donosi dodatnih 20% bonusa!",
@@ -137,23 +137,23 @@ const promotions = {
      
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15031",
+    button:"UPLATI DEPOZIT"
   },
   9: {
     title: "Aviator kiša freebet-ova!",
     subtitle: "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru!",
     image: "./assets/images/header/image4.jpg",
     description: [
-      "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru! ",
+      "U toku promocije potrebno je da igrač uplati min. 5€ I da deposit iskoristi na kazino ponudi kako bi dobio 10 freebet-ova.",
       "Svaki dodijeljeni Freebet je vrijedan 0.10€.",
       "Dobitak se može isplatiti na keš račun igrača u bilo kom trenutku nakon što koeficijent dostigne minimalni iznos od 1.95.",
       "Freebet-ovi se uplacuju sjutradan do 12h.",
      
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25421",
+    button:"UPLATI"
   },
   10: {
     title: "Igra dana GG&3+",
@@ -169,8 +169,8 @@ const promotions = {
      
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15044",
+    button:"ODIGRAJ TIKET"
   },
   11: {
     title: "Uzleti uz Super Heli!",
@@ -180,11 +180,11 @@ const promotions = {
       "U toku promocije potrebno je da igrač uplati min. 5€ I da deposit iskoristi na kazino ponudi kako bi dobio 15 freebet-ova.",
       "Svaki dodijeljeni Freebet je vrijedan 0.10€.",
       "Dobitak se može isplatiti na keš račun igrača u bilo kom trenutku nakon što koeficijent dostigne minimalni iznos od 1.95.",
-      "Freebet-ovi se uplacuju  sjutradan do 12h.",     
+      "Freebet-ovi se uplacuju sjutradan do 12h.",     
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25425",
+    button:"UPLATI"
   },
   12: {
     title: "Dan za spinove",
@@ -197,8 +197,8 @@ const promotions = {
       "Pripremi se za nezaboravnu zabavu i osvoji spinove! ",     
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/400/page/25427",
+    button:"UPLATI DEPOZIT"
   },
   13: {
     title: "Win&Go cashback 100%!",
@@ -212,8 +212,8 @@ const promotions = {
       "Cashback se uplaćuje sjutradan do 15h"
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15046",
+    button:"ODIGRAJ"
   },
   14: {
     title: "Sport cashback!",
@@ -228,8 +228,8 @@ const promotions = {
       "Maksimalni iznos bonusa je 20€.",
     ],
     month: "January",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/30/page/15052",
+    button:"ODIGRAJ TIKET"
   },
   15: [{
     title: "Kartica donosi dodatnih 20% bonusa!",
@@ -243,8 +243,8 @@ const promotions = {
      
     ],
     month: "January",
-    link:"https://meridianbet.rs/sr/kladjenje",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15031",
+    button:"UPLATI DEPOZIT"
   },
  {
     title: "Dan za spinove",
@@ -257,8 +257,8 @@ const promotions = {
       "Pripremi se za nezaboravnu zabavu i osvoji spinove! ",     
     ],
     month: "December",
-    link:"https://meridianbet.rs/sr/kladjenje",
-    button:"Igraj",
+    link:"https://promo.meridianbet.me/sr/category/400/page/25427",
+    button:"UPLATI DEPOZIT",
   }],
   16: {
     title: "Win&Go cashback 100%!",
@@ -272,8 +272,8 @@ const promotions = {
       "Cashback se uplaćuje sjutradan do 15h"
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Zavrti"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15046",
+    button:"ODIGRAJ"
   },
   17: {
     title: "Sport cashback!",
@@ -288,8 +288,8 @@ const promotions = {
       "Maksimalni iznos bonusa je 20€.",
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Zavrti",
+    link:"https://promo.meridianbet.me/sr/category/30/page/15052",
+    button:"ODIGRAJ TIKET",
   },
   
   18: {
@@ -304,23 +304,23 @@ const promotions = {
      
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15031",
+    button:"UPLATI DEPOZIT"
   },
   19: {
     title: "Aviator kiša freebet-ova!",
     subtitle: "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru!",
     image: "./assets/images/header/image4.jpg",
     description: [
-      "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru! ",
+      "U toku promocije potrebno je da igrač uplati min. 5€ I da deposit iskoristi na kazino ponudi kako bi dobio 10 freebet-ova.",
       "Svaki dodijeljeni Freebet je vrijedan 0.10€.",
       "Dobitak se može isplatiti na keš račun igrača u bilo kom trenutku nakon što koeficijent dostigne minimalni iznos od 1.95.",
       "Freebet-ovi se uplacuju sjutradan do 12h.",
      
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25421",
+    button:"UPLATI"
   },
   20: {
     title: "Igra dana GG&3+",
@@ -336,8 +336,8 @@ const promotions = {
      
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15044",
+    button:"ODIGRAJ TIKET"
   },
   21: {
     title: "Uzleti uz Super Heli!",
@@ -350,8 +350,8 @@ const promotions = {
       "Freebet-ovi se uplacuju  sjutradan do 12h.",     
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25425",
+    button:"UPLATI"
   },
   22: {
     title: "Dan za spinove",
@@ -364,8 +364,8 @@ const promotions = {
       "Pripremi se za nezaboravnu zabavu i osvoji spinove! ",     
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/400/page/25427",
+    button:"UPLATI DEPOZIT"
   },
   23: {
     title: "Win&Go cashback 100%!",
@@ -379,8 +379,8 @@ const promotions = {
       "Cashback se uplaćuje sjutradan do 15h"
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15046",
+    button:"ODIGRAJ"
   },
   24: {
     title: "Sport cashback!",
@@ -395,8 +395,8 @@ const promotions = {
       "Maksimalni iznos bonusa je 20€.",
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/30/page/15052",
+    button:"ODIGRAJ TIKET"
   },
   25: {
     title: "Kartica donosi dodatnih 20% bonusa!",
@@ -410,23 +410,23 @@ const promotions = {
      
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15031",
+    button:"UPLATI DEPOZIT"
   },
   26: {
     title: "Aviator kiša freebet-ova!",
     subtitle: "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru!",
     image: "./assets/images/header/image4.jpg",
     description: [
-      "Uplati depozit u minimalnom iznosu od 5€, izvrti ga na kazinu kako bi dobio freebet-ove na Aviatoru! ",
+      "U toku promocije potrebno je da igrač uplati min. 5€ I da deposit iskoristi na kazino ponudi kako bi dobio 10 freebet-ova.",
       "Svaki dodijeljeni Freebet je vrijedan 0.10€.",
       "Dobitak se može isplatiti na keš račun igrača u bilo kom trenutku nakon što koeficijent dostigne minimalni iznos od 1.95.",
       "Freebet-ovi se uplacuju sjutradan do 12h.",
      
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25421",
+    button:"UPLATI"
   },
   27: {
     title: "Igra dana GG&3+",
@@ -442,8 +442,8 @@ const promotions = {
      
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15044",
+    button:"ODIGRAJ TIKET"
   },
   28: {
     title: "Uzleti uz Super Heli!",
@@ -453,11 +453,11 @@ const promotions = {
       "U toku promocije potrebno je da igrač uplati min. 5€ I da deposit iskoristi na kazino ponudi kako bi dobio 15 freebet-ova.",
       "Svaki dodijeljeni Freebet je vrijedan 0.10€.",
       "Dobitak se može isplatiti na keš račun igrača u bilo kom trenutku nakon što koeficijent dostigne minimalni iznos od 1.95.",
-      "Freebet-ovi se uplacuju  sjutradan do 12h.",     
+      "Freebet-ovi se uplacuju sjutradan do 12h.",     
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/25425",
+    button:"UPLATI"
   },
   29: {
     title: "Dan za spinove",
@@ -470,8 +470,8 @@ const promotions = {
       "Pripremi se za nezaboravnu zabavu i osvoji spinove! ",     
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/400/page/25427",
+    button:"UPLATI DEPOZIT"
   },
   30: {
     title: "Win&Go cashback 100%!",
@@ -485,8 +485,8 @@ const promotions = {
       "Cashback se uplaćuje sjutradan do 15h"
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/580/page/15046",
+    button:"ODIGRAJ"
   },
   31: {
     title: "Sport cashback!",
@@ -501,8 +501,8 @@ const promotions = {
       "Maksimalni iznos bonusa je 20€.",
     ],
     month: "December",
-    link:"https://meridianbet.rs/",
-    button:"Igraj"
+    link:"https://promo.meridianbet.me/sr/category/30/page/15052",
+    button:"ODIGRAJ TIKET"
   },
 };
 
@@ -717,5 +717,4 @@ function updateCalendarStates(month) {
     togglePopup(); 
   });
 }
-
 
