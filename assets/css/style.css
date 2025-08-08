@@ -668,12 +668,12 @@ p {
 
 #home {
   display: block;
-  height: 100vh;
   background-size: cover;
   overflow: hidden;
-  background-image: url(../images/Desk-bg.png);
-  background-position: center;
+  background-image: url(../images/Bazar-za-portfolio.png);
+  background-position: center bottom;
   position: relative;
+  padding-bottom: 150px;
 }
 .slider-wrapper {
   width: 80%;
@@ -935,15 +935,21 @@ i {
   display: none;
 }
 .header-flex {
-  display: flex;
+  display: block;
   justify-content: center;
   background-image: url(../images/header/general-bg.jpg) ;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 50px;
+  height: 160px;
+  padding: 10px;
 }
-
+.header-flex h6 {
+    font-size: 15px;
+    color: #d7d7d7;
+    text-align: right;
+    padding: 20px;
+}
 .close-btn {
   display: flex;
   font-size: 20px;
@@ -1773,7 +1779,6 @@ line-height: 15px;
 @media (max-width: 895px) {
   #home {
     height: auto;
-    padding-bottom: 20rem;
     padding-bottom: 3rem;
   }
   .meridian {
