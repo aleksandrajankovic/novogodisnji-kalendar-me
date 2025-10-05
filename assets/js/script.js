@@ -22,7 +22,7 @@ const giftImages = [
 
 
 const promotionStartDate = new Date(2025, 6, 1);
-const promotionEndDate = new Date(2025, 7, 32);
+const promotionEndDate = new Date(2025, 11, 32);
 
 let currentImageIndex = 0;
 
@@ -31,8 +31,8 @@ window.onload = function () {
   const today = new Date();
   const currentMonth = today.getMonth();
   const currentYear = today.getFullYear(); 
- if (currentMonth === 6) {
-    currentImageIndex = 0;
+ if (currentMonth === 9) {
+    currentImageIndex = 4;
   } else {
     currentImageIndex = 3;
   }
